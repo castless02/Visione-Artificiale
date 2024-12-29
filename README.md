@@ -1,4 +1,4 @@
-# Assegnamento 1: Strumento per la navigazione di immagini a 360°
+# Assignment 1: Strumento per la navigazione di immagini a 360°
 
 
 ## Obiettivo
@@ -23,7 +23,7 @@ L'obiettivo di questo assegnamento è creare uno strumento per navigare immagini
 
 ---
 
-# Assegnamento 2: Rilevamento Pedoni
+# Assignment 2: Rilevamento Pedoni
 
 ## Obiettivo
 L'obiettivo di questo assegnamento è addestrare un rilevatore di pedoni basato su HOG (Histogram of Oriented Gradients) e SVM (Support Vector Machine) utilizzando:  
@@ -53,7 +53,7 @@ Il rilevatore deve essere addestrato, validato e testato utilizzando il dataset 
 
 ---
 
-# Assegnamento 3: Tracciamento Pedoni
+# Assignment 3: Tracciamento Pedoni
 
 ## Obiettivo
 L'obiettivo è sviluppare un Multi-Object Tracker online basato sul paradigma **tracking-by-detection**, con focus sul tracciamento di pedoni.  
