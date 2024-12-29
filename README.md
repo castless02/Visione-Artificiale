@@ -51,8 +51,6 @@ Il rilevatore deve essere addestrato, validato e testato utilizzando il dataset 
    - Usa il rilevatore predefinito `cv2.HOGDescriptor_getDefaultPeopleDetector()`.  
    - Confronta le prestazioni con il tuo modello.  
 
-Ecco il riassunto in italiano per il file `README.md`:  
-
 ---
 
 # Assegnamento 3: Tracciamento Pedoni
